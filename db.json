@@ -1,0 +1,78 @@
+{
+  "task":
+          [
+	    {
+		"id":1,"reference":"tachev","description":"description de tachev",
+		 "date_debut":"2019-06-11","date_fin_prevu":"2019-06-14","date_fin_reel":null,
+		 "etat":"en attente","prix_heure_tache":150,"backlog":"gestion taches"
+		  },
+		  {
+		   "id":2,"reference":"tache1","description":"jkdvoiezhjhvjhy",
+		   "date_debut":"2019-06-11","date_fin_prevu":"2019-06-13","date_fin_reel":null,
+		   "etat":"en attente","prix_heure_tache":150,"backlog":"gestion taches"
+		  },
+		  {
+		   "id":3,"reference":"ali","description":"habjia  jzbizehvezvjpovjerivehrvo",
+		   "date_debut":"2019-06-12","date_fin_prevu":"2019-06-14","date_fin_reel":null,
+		   "etat":"en attente","prix_heure_tache":200,"backlog":"gestion sous taches"
+		  },
+		  {
+		   "id":4,"reference":"tache2","description":"jecznivchzivhzeivhezlvihzvmpezivhzepmvz",
+		   "date_debut":"2019-06-05","date_fin_prevu":"2019-06-07","date_fin_reel":null,
+		   "etat":"en attente","prix_heure_tache":150,"backlog":"gestion sous taches"
+		 },
+		 {
+		   "id":5,"reference":"tache3","description":"vnlezhvnzeilvhzpihvzpevbezkivhzemvphigze",
+		   "date_debut":"2019-06-05","date_fin_prevu":"2019-06-07","date_fin_reel":null,
+		   "etat":"en attente","prix_heure_tache":200,"backlog":"gestion tickets"
+		 },
+		 {
+		  "id":6,"reference":"ali","description":"klbezlvkiezhbivkhzepvmiezghvpiezvhgezpimvez",
+		  "date_debut":"2019-06-04","date_fin_prevu":"2019-06-12","date_fin_reel":null,
+		  "etat":"en attente","prix_heure_tache":260,"backlog":"gestion sous taches"
+		 },
+		 {
+		  "id":7,"reference":"tache3","description":"erberbebnt'nt'n'n","date_debut":"2019-06-05",
+		  "date_fin_prevu":"2019-06-07","date_fin_reel":null,"etat":"en attente",
+		  "prix_heure_tache":200,"backlog":"gestion tickets"
+		 },
+		 {
+		  "id":8,"reference":"tache2","description":"ghxsthgstystudutgdhgchngjchgtdtystys",
+		  "date_debut":"2019-06-05","date_fin_prevu":"2019-06-07","date_fin_reel":null,
+		  "etat":"en attente","prix_heure_tache":250,"backlog":"gestion taches"
+		 }
+	 ],
+	"project": 
+		[
+		    {
+		      "id": "1",
+		      "libelle": "Gestion  des projets",
+		      "description": "descption 1",
+		      "date_debut": "2019-03-04",
+		      "date_fin_prevu": "2019-09-02",
+		      "date_fin_reel": "0000-00-00",
+		      "etat": "en attente",
+		      "client": "SocialX"
+		    },
+		    {
+		      "id": 2,
+		      "libelle": "Gestion des Cong",
+		      "description": "description 2",
+		      "date_debut": "2019-06-09",
+		      "date_fin_prevu": "2020-06-13",
+		      "date_fin_reel": "0000-00-00",
+		      "etat": "en attente",
+		      "client": "SocialX"
+		    },
+		    {
+		      "id": 3,
+		      "libelle": "Gestion des Cong",
+		      "description": "description 2",
+		      "date_debut": "2019-06-09",
+		      "date_fin_prevu": "2020-06-13",
+		      "date_fin_reel": "0000-00-00",
+		      "etat": "en attente",
+		      "client": "SocialX"
+		    }
+  	]
+}
